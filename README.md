@@ -2,7 +2,7 @@
 
 This is a 2D implementation of flocking behavior learned through tabular Q-learning, trained by calling `run.py`.
 
-![flocking example](flocking.gif)
+![flocking example](images/flocking.gif)
 
 ---
 
